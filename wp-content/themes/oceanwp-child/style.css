@@ -1,0 +1,51 @@
+/*
+ Theme Name:   OceanWP Child Theme
+ Theme URI:    http://imhuman.dk/leatherwp
+ Description:  OceanWP Child Theme
+ Author:       Human Rahmani
+ Author URI:   http://imhuman.dk/leatherwp
+ Template:     oceanwp
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  oceanwpchild
+*/
+
+
+#knap1 {
+    
+    font-family: "Raleway", Sans-serif;
+    font-weight: 500;
+    border: solid;
+    background-color: transparent;
+    
+}
+
+#knap2 {
+    
+    font-family: "Raleway", Sans-serif;
+    font-weight: 500;
+    border: solid;
+    background-color: transparent;
+    
+}
+
+.info {
+    
+    font-family: "Raleway";
+    color: white;
+    font-size: 20px;
+}
+
+#knap {
+    overflow: visible;
+    background-color: white;
+    border: none;
+    padding: 10px 30px;
+    margin-left: 500px;
+    font-family: "Raleway", sans-serif;
+    color: #723900;
+    font-size: 20px;
+    font-weight: 600;
+}
